@@ -1,6 +1,7 @@
 # About
 流体シミュレーション - 粒子法 - SPH（Smoothed Particle Hydrodynamics）のwebgl実装。  
-グリッドハッシュによる近傍探索の実装はしていない。
+グリッドハッシュによる近傍探索の実装はしていない。  
+https://spoon-inoue.github.io/sph-device-orientation/
 
 # Reference
 - [Coding Adventure: Simulating Fluids](https://youtu.be/rSKMYc1CQHE?si=Ul6EgEpIs1xhE5sM)  
