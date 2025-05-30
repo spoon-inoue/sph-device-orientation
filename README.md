@@ -3,6 +3,8 @@
 グリッドハッシュによる近傍探索の実装はしていない。  
 https://spoon-inoue.github.io/sph-device-orientation/
 
+![QR_566422](https://github.com/user-attachments/assets/5e6ef6aa-e034-4b4e-88bf-a36a48318b92)
+
 # Reference
 - [Coding Adventure: Simulating Fluids](https://youtu.be/rSKMYc1CQHE?si=Ul6EgEpIs1xhE5sM)  
   この動画を見て、ソースコードをwebglに置き換えて、ほぼそのまま動いた。
