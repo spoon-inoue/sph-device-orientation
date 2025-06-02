@@ -116,7 +116,7 @@ export class Canvas extends Base {
     //   }
     // })
 
-    pane.addBinding(params, 'targetDensity', { min: 0, max: 50, step: 5 }).on('change', (e) => {
+    pane.addBinding(params, 'targetDensity', { min: 0, max: 20, step: 1 }).on('change', (e) => {
       this.pressure.uniforms.targetDensity.value = e.value
     })
 

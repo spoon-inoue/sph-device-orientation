@@ -10,11 +10,11 @@ export class Particle {
   static readonly SPAN = 0.3
 
   static readonly GRAVITY = [0, -9.8 * 1.5]
-  static readonly SMOOTHING_RADIUS = 0.6
+  static readonly SMOOTHING_RADIUS = 0.5
   static readonly TARGET_DENSITY = 12
-  static readonly PRESSURE_MULTIPLIER = 250
-  static readonly NEAR_PRESSURE_MULTIPLIER = 20
-  static readonly VISCOSITY_STRENGTH = 5
+  static readonly PRESSURE_MULTIPLIER = 400
+  static readonly NEAR_PRESSURE_MULTIPLIER = 5
+  static readonly VISCOSITY_STRENGTH = 3
   static readonly COLLISION_DAMPING = 0.5
 
   // prettier-ignore
